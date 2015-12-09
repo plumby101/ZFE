@@ -1,0 +1,6 @@
+{
+	"user_id": 280,
+	"auth_token": "a8b8a94b89ajkdjbsad08b3urjkfdf89ub3qifjkdsv",
+	"offset": 5, // optional
+	"limit": 10   // optional
+}

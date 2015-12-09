@@ -1,0 +1,9 @@
+{
+	"url": "/api/social/facebook/connect",
+	"params": "user_id=123&auth_token=bhjbjhbj32b4jhb234&cb=fbConnectCb",
+	"response": {
+		"status": "success/error",
+		"data": {},
+		"message": ""
+	}
+}

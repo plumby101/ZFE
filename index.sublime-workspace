@@ -1,0 +1,623 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"eh",
+				"enhance"
+			],
+			[
+				"media",
+				"media"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"BACK",
+				"background-color"
+			],
+			[
+				"social",
+				"socialActive"
+			],
+			[
+				"zano",
+				"zanoStats"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"field",
+				"fieldLabel"
+			],
+			[
+				"glo",
+				"globalID"
+			],
+			[
+				"user",
+				"userPostArray"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"R",
+				"border-radius"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"firstName",
+				"firstName"
+			],
+			[
+				"countr",
+				"countries"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"addr",
+				"address1"
+			],
+			[
+				"em",
+				"emailAddress"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 115.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/allmedia.min.js",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/allmedia.js",
+		"/Applications/MAMP/htdocs/FlyZano/zano-root/channel.php",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/connections.js",
+		"/Applications/MAMP/htdocs/FlyZano/zano-root/includes/topnav.php",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/account_global.css",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/register.min.js",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/login.min.js",
+		"/Applications/MAMP/htdocs/FlyZano/zano-root/js/global.js",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/account-global.js",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/index.php",
+		"/Applications/MAMP/htdocs/ZanoSDK/css/custom.css",
+		"/Applications/MAMP/htdocs/FlyZano/zano-root/includes/footer.php",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/passwordreset.js",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/css/account_global.scss",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/css/account_global.css",
+		"/Applications/MAMP/htdocs/FlyZano/zano-root/css/custom.scss",
+		"/Applications/MAMP/htdocs/FlyZano/zano-root/index.php",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/myzano.html",
+		"/Applications/MAMP/htdocs/FlyZano/zano-root/css/custom.css",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/connections.min.js",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/account-global.min.js",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/myzano.min.js",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/myzano.js",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/myAccount.min.js",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/myAccount.js",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/register.html",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/photos.min.js",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/myaccount.html",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/css/custom.css",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/css/custom.scss",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/allmedia.html",
+		"/Applications/MAMP/htdocs/ZanoSDK/wp-content/themes/zanoSDK/categories.php",
+		"/Applications/MAMP/htdocs/FlyZano/zano-root/about.php",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/login.html",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/login.js",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/sftp-config.json",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/css/custom.css.map",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/sftp-config.json",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/sftp-config-alt.json",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/css/sftp-config.json",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/css/untitled",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/socialconnections.html",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/sftp-config-alt.json",
+		"/Users/timplumb/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/sftp-config.json",
+		"/Applications/MAMP/htdocs/FlyZano/zano-root/api/sftp-config.json",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/js/register.js",
+		"/Users/timplumb/Desktop/index.html.gz",
+		"/Applications/MAMP/htdocs/embedded/main/http/web_manager/.htaccess",
+		"/Users/timplumb/Desktop/allmedia_old.js",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/videos.json",
+		"/Applications/MAMP/htdocs/FlyZano/zano-root/careers.php",
+		"/Applications/MAMP/htdocs/FlyZano/zano-support/page.php",
+		"/Users/timplumb/Desktop/Downloaded/common.php",
+		"/Users/timplumb/Desktop/Downloaded/index.php",
+		"/Users/timplumb/Desktop/Downloaded/custom.css",
+		"/Applications/MAMP/htdocs/FlyZano/zano-root/fame.php",
+		"/Users/timplumb/Desktop/Downloaded/colours.css",
+		"/Applications/MAMP/htdocs/FlyZano/zano-support/index.php",
+		"/Users/timplumb/Desktop/Downloaded/startup.php",
+		"/Users/timplumb/Desktop/Downloaded/web.config",
+		"/Users/timplumb/Downloads/wordpress 2/wp-content/themes/twentythirteen/page.php",
+		"/Applications/MAMP/htdocs/FlyZano/zano-support/WP/style.css",
+		"/Applications/MAMP/htdocs/FlyZano/myaccount/index2.html",
+		"/Applications/MAMP/htdocs/FocusTest/index.html",
+		"/Applications/MAMP/htdocs/TorquingGroup/index.html",
+		"/Applications/MAMP/htdocs/FocusTest/popup.html",
+		"/Applications/MAMP/htdocs/FlyZano/fame.php",
+		"/Applications/MAMP/htdocs/TorquingGroup/index_light.html",
+		"/Applications/MAMP/htdocs/FlyZano/css/lightbox.css",
+		"/Applications/MAMP/htdocs/FlyZano/css/custombootstrap.css",
+		"/Applications/MAMP/htdocs/TorquingGroup/lcss/landing.css",
+		"/Users/timplumb/Documents/Torquing Group/HTML/index.html",
+		"/Users/timplumb/Documents/Torquing Group/HTML/lcss/landing.css",
+		"/Users/timplumb/Documents/Kickstarter Excel Lists/all.csv",
+		"/Applications/MAMP/htdocs/AddressFinder/writeDB.php",
+		"/Users/timplumb/Documents/Kickstarter Excel Lists/1st-1k.csv",
+		"/Users/timplumb/Desktop/config.ini",
+		"/Users/timplumb/Desktop/php.ini",
+		"/Users/timplumb/Desktop/php.php",
+		"/Applications/MAMP/htdocs/AddressFinder/checkEmail.php",
+		"/Users/timplumb/Downloads/kickstart_tbl (2).csv",
+		"/Applications/MAMP/htdocs/AddressFinder/css/custom.scss",
+		"/Applications/MAMP/htdocs/AddressFinder/index.php",
+		"/Applications/MAMP/htdocs/AddressFinder/js/addressfinder.js",
+		"/Users/timplumb/Desktop/.htaccess",
+		"/Users/timplumb/Documents/Kickstarter Excel Lists/DB_imported_excel_csv-UTF8.csv",
+		"/Applications/MAMP/htdocs/AddressFinder/index_new.php",
+		"/Applications/MAMP/htdocs/FlyZano/index.php",
+		"/Applications/MAMP/htdocs/FlyZano/css/custom.scss.css",
+		"/Applications/MAMP/htdocs/FlyZano/css/home.css",
+		"/Applications/MAMP/htdocs/FlyZano/includes/footer.php",
+		"/Applications/MAMP/htdocs/FlyZano/includes/topnav.php",
+		"/Applications/MAMP/htdocs/FlyZano/about.html",
+		"/Applications/MAMP/htdocs/ZanoSDK/wp-content/themes/zanoSDK/single.php",
+		"/Applications/MAMP/htdocs/ZanoSDK/wp-content/themes/zanoSDK/comands.php",
+		"/Applications/MAMP/htdocs/ZanoSDK/wp-content/themes/zanoSDK/header.php",
+		"/Users/timplumb/Documents/ZANO-SDK Website/Website Template/content.html",
+		"/Applications/MAMP/htdocs/ZanoSDK/wp-content/themes/zanoSDK/style.css",
+		"/Applications/MAMP/htdocs/ZanoSDK/wp-content/themes/zanoSDK/index.php",
+		"/Users/timplumb/Documents/ZANO-SDK Website/Website Template/css/custom.css",
+		"/Users/timplumb/Documents/ZANO-SDK Website/Wordpress Site/style.css",
+		"/Applications/MAMP/htdocs/AddressFinder/date.php",
+		"/Applications/MAMP/htdocs/AddressFinder/JS/addressfinder.js",
+		"/Applications/MAMP/htdocs/Templates/allmedia.json",
+		"/Applications/MAMP/htdocs/Templates/videos.html",
+		"/Applications/MAMP/htdocs/Templates/allmedia.html",
+		"/Applications/MAMP/htdocs/Templates/css/custom.css",
+		"/Applications/MAMP/htdocs/AddressFinder/css/custombootstrap.scss",
+		"/Applications/MAMP/htdocs/Templates/js/allmedia.min.js",
+		"/Applications/MAMP/htdocs/Templates/js/photos.js",
+		"/Applications/MAMP/htdocs/Templates/photos.html",
+		"/Applications/MAMP/htdocs/Templates/js/video.min.js",
+		"/Applications/MAMP/htdocs/Templates/js/video.js",
+		"/Applications/MAMP/htdocs/Templates/css/custombootstrap.css",
+		"/Applications/MAMP/htdocs/AddressFinder/.htaccess",
+		"/Applications/MAMP/htdocs/Templates/templates/home.html",
+		"/Users/timplumb/Documents/jQuery Templates/templates/home.html",
+		"/Applications/MAMP/htdocs/AddressFinder/chtest.php",
+		"/Users/timplumb/Desktop/Rebrand/quickstart",
+		"/Applications/MAMP/htdocs/AddressFinder/css/custom.css",
+		"/Applications/MAMP/htdocs/AddressFinder/js/addressfinder.min.js",
+		"/Applications/MAMP/htdocs/AddressFinder/css/bootstrap.min.css",
+		"/Applications/MAMP/htdocs/AddressFinder/JS/addressfinder.min.js",
+		"/Applications/MAMP/htdocs/AddressFinder/crypt.php",
+		"/Applications/MAMP/htdocs/AddressFinder/JS/jquery.min.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"socialActive ",
+			".videoOverlay",
+			"fadedOverlay",
+			"click",
+			"fadeOut",
+			"fadedOver",
+			"error",
+			"btn",
+			".mediaLightbox",
+			"mediaLightBox",
+			"upp",
+			"total flight time",
+			"longest flight ",
+			"total flight time",
+			"uppercase",
+			"row",
+			"footer",
+			"loadstat",
+			"loadstatic",
+			"socialActive ",
+			"#zano\" + zanoID + \" ",
+			"maxflightunit",
+			">\n",
+			"distance",
+			"console",
+			"deletebutton",
+			"deletetext",
+			"stabl",
+			"stablis",
+			"$.post( apiRoot + \"api/oauth/fbv4/disconnect\", userPostArray, function( data ) { \n              loadSocials()\n           }).fail(function() {\n            $(\".socialIntro\").html(loginError);\n          })",
+			"console",
+			"makeEnhanceOverlay",
+			" makeEnhanceOverlay",
+			" initiateOverlay",
+			"makeEnhanceOverlay",
+			"loadstatic",
+			"logout",
+			"h2",
+			"initiateOverlay",
+			"intitiate",
+			"//",
+			"submitNewPassword()",
+			".accountContent",
+			"makeShareOverlay",
+			"Twitter",
+			"accountContent",
+			"socialNetworks",
+			"all",
+			"show all",
+			" socialStatus ",
+			"overlayIcons",
+			".col",
+			"shareTwitter,",
+			"videoOverlay",
+			".mainHeader",
+			"log",
+			"count",
+			"fadedOverlay ",
+			"\"",
+			"data",
+			"home",
+			"extract",
+			"parent",
+			"rawIDs",
+			"My Photos",
+			"all",
+			"dada",
+			"showLogin()",
+			"string",
+			"showMediaLightbox",
+			"light",
+			"}\n",
+			"extractUrl",
+			"replace",
+			"mediaContent[i].",
+			"newEmailValidationText",
+			"showlogin",
+			"replace",
+			"message",
+			"status",
+			"verifyUser()",
+			"\"(?:\\\\\"|.)*?\"",
+			"/[A-Za-z0-9]/",
+			"/\"(?:[^\"\\\\]|\\\\.)*\"/",
+			"vallue=\"([^;]+)(;\\1)*\"",
+			" '([^;]+)(;\\1)*'",
+			"myAcco",
+			"myaccount",
+			"loadAccountInfo",
+			"verifyUser()",
+			"loadAccountInfo",
+			"loadThis",
+			"loadAccountInfo",
+			">\")\n",
+			"login",
+			"#invalidText",
+			"mages\\productimages\\",
+			".inputbox ",
+			".inputbox",
+			"#000000",
+			"latest",
+			"new",
+			"mainContent",
+			"myaccount-sub",
+			"accountsubnav",
+			"myaccount",
+			"forum",
+			"mainContent",
+			"mobileMenuFader",
+			"http://www.torquinggroup.com/zano-root/",
+			"/FlyZano/",
+			"/zano-root/",
+			"../zano-root/",
+			"../FlyZano/",
+			"/FlyZano/",
+			"accountsubnav",
+			"category",
+			"\";?>\n",
+			"mainheader",
+			"omas",
+			"focus",
+			"#23527c",
+			"#337ab7",
+			"2m",
+			"20",
+			"max",
+			"	",
+			"/sports/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Total Flight Time",
+			"Longest Flight",
+			"Total Flight Time",
+			"",
+			"'",
+			"mediaData.media.",
+			"\"5\"",
+			"\"4\"",
+			"\"3\"",
+			"\"2\"",
+			"\"1\"",
+			"\"0\"",
+			"0",
+			"mages/productimages/",
+			"#{$assetPath}",
+			"http://www.torquinggroup.com/",
+			"http://www.torquinggroup.com/zano-root/",
+			"/FlyZano/zano-root/",
+			"/zano-root/",
+			"../zano-root/",
+			"../FlyZano/",
+			"#f3b229",
+			",",
+			"",
+			"http://lorempixel.com/220/124/sports/",
+			"220x124",
+			"225x127",
+			"'",
+			"f2b229"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 188.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

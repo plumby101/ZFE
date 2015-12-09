@@ -1,0 +1,21 @@
+<div class="col-sm-12 col-md-offset-2 col-md-6 login register">
+    <h1>Register new flight frame</h1>
+    <div class="loginMessage">Please enter the first 8 numbers of your new frame serial number and the full MAC code. These appear on the sticker that was sent with your replacement frame. <span class="noIDError"></span><br><br clear="all"><img src="//account.flyzano.com/images/serial_frame.jpg" width="180"> </div>
+    <div class="form-group"> 
+      <label for="firstName"><span class="disabledText">First 8 digits of serial number: </span><b><span id="validationSerialNumber" class="invalidText"></span></b></label>
+      <input class="form-control form-serial" type="text" name="regSerial" id="regSerial" value="" maxlength="8"/>
+  </div>
+ 
+
+<div class="form-group"> 
+  <label for="phoneNumber"><span class="disabledText">MAC code: </span><b><span id="validationMacCode" class="invalidText"></span></b></label><div class="mac_input_holder">
+  <input class="form-control form-mac" type="text" name="mac1" id="mac1" value="" maxlength="2"/> <span class="colon">:</span> <input class="form-control form-mac" type="text" name="mac2" id="mac2" value="" maxlength="2"/> <span class="colon">:</span> <input class="form-control form-mac" type="text" name="mac3" id="mac3" value="" maxlength="2"/> <span class="colon">:</span> <input class="form-control form-mac" type="text" name="mac4" id="mac4" value="" maxlength="2"/> <span class="colon">:</span> <input class="form-control form-mac" type="text" name="mac5" id="mac5" value="" maxlength="2"/><span class="colon">:</span> <input class="form-control form-mac" type="text" name="mac6" id="mac6" value="" maxlength="2"/></div>
+</div>
+
+
+<br clear="all"><br><div class="submitError"></div>
+<button type="submit" class="btn btn-zano loginButton" onClick='registerNewFrame()'> Submit</button>
+</div>
+
+<script src="js/new_frame_myaccount.min.js"></script>
+<script src="js/md5.min.js"></script>

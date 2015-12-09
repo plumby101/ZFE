@@ -1,0 +1,90 @@
+
+<div class="col-sm-12 col-md-offset-1 col-md-6 login register">
+<h1>Support - Report a problem. </h1>
+	<div class="loginMessage">Report a problem with your ZANO or accessory.</div>
+   
+<div class="row1">
+    <div class="questionText">Where did you purchase the product you are having trouble with?</div>
+
+
+<div class="btn-group row1" data-toggle="buttons">
+<button type='submit' class='btn btn-zano ks' onClick="javascript:firstRow(1)">Kickstarter</button>
+<button type='submit' class='btn btn-zano fz' onClick="javascript:firstRow(2)">Flyzano.com</button>
+<button type='submit' class='btn btn-zano or' onClick="javascript:firstRow(3)">Other</button>
+</div>
+</div>
+
+
+
+   <div class="row2">
+     <div class="form-group"> 
+      <label for="firstName"><span class="questionText">Please enter your order number</span><b><span id="validationTextFN" class="invalidText"></span></b></label>
+      <div class="fieldAndButton">
+      <input class="form-control orderID" type="text" name="orderID" id="orderID" value=""/>
+      <button type='submit' class='btn btn-zano orderIDButton' >PROCEED</button>
+      </div>
+    </div>
+
+   </div>
+
+    <div class="row3">
+       <label for="firstName"><span class="questionText">What type of product are you having trouble with?</span><b><span id="validationTextFN" class="invalidText"></span></b></label>
+        <div class="fieldAndButton">
+    <button type='submit' class='btn btn-zano zano' onClick="javascript:thirdRow(2)">ZANO</button>
+<button type='submit' class='btn btn-zano access' onClick="javascript:thirdRow(1)">Accessory</button>
+</div>
+
+   </div>
+
+   <div class="row3b">
+     <div class="form-group"> 
+      <label for="firstName"><span class="questionText">Please enter your ZANO serial number</span><b><span id="validationTextFN" class="invalidText"></span></b></label>
+      <div class="fieldAndButton">
+      <input class="form-control zanoID" type="text" name="zanoID" id="zanoID" value=""/>
+      <button type='submit' class='btn btn-zano zanoIDButton' >PROCEED</button>
+      </div>
+    </div>
+    </div>
+
+
+     <div class="row4">
+       <label for="firstName"><span class="questionText"></span><b><span id="validationTextFN" class="invalidText"></span></b></label>
+        <div class="fieldAndButton">
+   <textarea class="form-control explanationTextarea" rows="6"></textarea>
+<button type='submit' class='btn btn-zano explanationButton' >PROCEED</button>
+
+
+
+</div>
+
+   </div>
+
+    <div class="row5">
+    <label for="firstName"><span class="questionText">Please enter your personal details.<br><br></span><b><span id="validationTextFN" class="invalidText"></span></b></label>
+     <div class="form-group"> 
+      <label for="firstName"><span class="questionText">Full Name</span><b><span id="validationName" class="invalidText"></span></b></label>
+      <input class="form-control fullName" type="text" name="fullName" id="fullName" value=""/>
+    </div>
+     <div class="form-group"> 
+      <label for="firstName"><span class="questionText">Email Address</span><b><span id="validationEmail" class="invalidText"></span></b></label>
+      <input class="form-control emailAddress" type="text" name="emailAddress" id="emailAddress" value=""/>
+    </div>
+     <div class="form-group"> 
+      <label for="firstName"><span class="questionText">Phone number (with area code)</span><b><span id="validationPhone" class="invalidText"></span></b></label>
+      <input class="form-control phoneNumber" type="text" name="phoneNumber" id="phoneNumber" value=""/>
+    </div>
+    
+
+  	
+  	<button type="submit" class="btn btn-zano" onClick='submitAllReport()'> Submit</button>
+</div>
+
+ <div class="row6">
+ <button type='submit' class='btn btn-zano access disconnect' onClick="javascript:resetForm()">Reset Form</button>
+ </div>
+
+
+  </div>
+
+  <script src="js/register.min.js"></script>
+  <script src="js/diagnose.min.js"></script>

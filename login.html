@@ -1,0 +1,16 @@
+<div class="col-sm-12 col-md-offset-1 col-md-6 login">
+<h1>Log in</h1>
+	<div class="loginMessage"><div class="loginNotice">This area is for My ZANO accounts only. Accounts are created when you first activate your ZANO via the App. Please <a href="https://store-brj95j3p.mybigcommerce.com/login.php">click here if you wish to log in to your ZANO shop account</a>. </div> <br>You are not currently logged in, please enter your details below. If you have forgotten your My ZANO password you can request a <a href="javascript: loadStatic('passwordreset')">password reset</a>.</div>
+	<div class="form-group"> 
+  		<label for="backerName"><span class="disabledText">Email address</span><b><span id="validationEmailText" class="invalidText"></span></b></label>
+  		<input class="form-control" type="text" name="userEmail" id="userEmail" value=""/>
+  	</div>
+  	<div class="form-group"> 
+  		<label for="emailField"><span class="disabledTextEmail">Password</span> <b><span id="validationPhoneText" class="invalidText"></span></b></label>
+  		<input class="form-control" type="password" name="passwordField" id="passwordField" value=""/> 
+  	</div>
+  	<button type="submit" class="btn btn-zano loginButton" onClick='loginSubmit()'> Submit</button>
+  </div>
+
+<script src="js/login.min.js"></script>
+<script src="js/md5.min.js"></script>

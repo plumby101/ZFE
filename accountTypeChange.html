@@ -1,0 +1,15 @@
+
+    <div class="col-sm-12 col-md-offset-2 col-md-6 login register">
+      <h1>Apply to be a <span class="applictionType"></span></h1>
+      <div class="loginMessage">If you have any questions or comments, please get in touch by submitting this form.<br><br></div>
+     
+      <div class="form-group"> 
+        <label for="comments"><span class="disabledText">Please explain why you wish to be <span class="applictionType"></span></span><b><span id="validationComments" class="invalidText"></span></b></label>
+        <textarea class="form-control" rows="5" name="comments" id="comments"></textarea>
+      </div>
+      <p class="antispam">Website URL <input type="text" name="url" id="url" /></p>
+      <p class="antispam"><input type="text" name="accountType" id="accountType" /></p>
+      <button type="submit" class="btn btn-zano" onClick='contactSubmit()'> Submit</button>
+      <div class="formSubmitError"></div>
+    </div>
+  <script src="js/changeaccount.min.js"></script>

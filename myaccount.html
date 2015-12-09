@@ -1,0 +1,102 @@
+<div class="col-xs-12 col-sm-6">
+	<h1 class="pageTitle">My ZANO</h1>
+	<div id="accountContent">
+		<h2>Account Information</h2>
+		<div class="accountType">Account Type: </div>
+	</div>
+	<div id="lastLogged"></div><hr class='zanoHR'>
+	<div id="zanoStats">
+		<h2>ZANO</h2>
+	</div>
+	<div id="accountTools"><hr class='zanoHR'>
+		<h2>Account Tools</h2>
+		<div id="toolFormHolder"> </div>
+		<div class="formTools"><button type='submit' class='btn btn-zano medium-button ' onClick='addEmailAddress()'>Add email address</button><button type='submit' class='btn btn-zano medium-button' onClick='addPhoneNumber()'>Add phone number</button><button type='submit' class='btn btn-zano medium-button ' onClick='changePassword()'>Change Password</button>
+		</div>
+	</div>
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-4">
+	<div class="allCircles">
+		<div class="circleHolder">
+			<div class="outer-circle">
+				<div class="inner-circle">
+					<div class="dash-info-header">
+						<div class="units flown"><span class="comingSoon">Coming Soon</span></div>
+						<div class="dash-info-subheader flownunit">
+							<p>Minutes Flown</p>
+						</div>
+					</div>
+				</div>					
+			</div>
+		</div>
+		<div class="circleHolder">
+			<div class="outer-circle">
+				<div class="inner-circle">
+					<div class="dash-info-header">
+						<div class="units flights"><span class="comingSoon">Coming Soon</span></div>
+						<div class="dash-info-subheader">
+							<p>Flights</p>
+						</div>
+					</div>
+				</div>					
+			</div>
+		</div>
+		<div class="circleHolder">
+			<div class="outer-circle">
+				<div class="inner-circle">
+					<div class="dash-info-header">
+						<div class="units photos"><span class="comingSoon">Coming Soon</span></div>
+						<div class="dash-info-subheader">
+							<p>Photos Taken</p>
+						</div>
+					</div>
+
+				</div>					
+			</div>
+		</div>
+		<div class="circleHolder">
+			<div class="outer-circle">
+				<div class="inner-circle">
+					<div class="dash-info-header">
+						<div class="units videos"><span class="comingSoon">Coming Soon</span></div>
+						<div class="dash-info-subheader videounit">
+							<p>Hours of Video</p>
+						</div>
+					</div>
+				</div>					
+			</div>
+		</div>
+
+		<div class="circleHolder">
+			<div class="outer-circle">
+				<div class="inner-circle">
+					<div class="dash-info-header">
+						<div class="units maxtime"><span class="comingSoon">Coming Soon</span></div>
+						<div class="dash-info-subheader maxflightunit">
+							<p>Longes Flight</p>
+						</div>
+					</div>
+				</div>					
+			</div>
+		</div>
+		<div class="circleHolder">
+			<div class="outer-circle">
+				<div class="inner-circle">
+					<div class="dash-info-header">
+						<div class="units altitude"><span class="comingSoon">Coming Soon</span></div>
+						<div class="dash-info-subheader">
+							<p>Highest Altitude (meters)</p>
+						</div>
+					</div>
+				</div>					
+			</div>
+		</div>
+		</div>
+	</div>
+
+<script>
+	var mediatype = window.location.hash.replace("#", "");
+</script>
+<script src="js/myAccount.min.js"></script>
+<script src="js/md5.min.js"></script>

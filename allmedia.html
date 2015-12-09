@@ -1,0 +1,35 @@
+<div class="mediaLightBoxBG"></div>
+<div class="mediaLightbox">
+	<a class="mediaLightboxClose" href="javascript:closeLighbox()"></a>
+	<div class="mediaLightboxContent"></div>
+
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-10 mainContentArea">
+	<div class="titleRow">
+		<div class="titleCol"><h1 class="pageTitle"></h1></div>
+		<div class="deleteMany"><a href='javascript:deleteMany()'><img src="images/deleteMany.png" height="32px" width="32px"></a></div>
+	</div>
+	<div id="content"></div>
+	<a class="fadedOverlay" href="javascript:closeShareOverlay()"></a>
+
+	<div class="videoOverlay">
+
+
+	</div>
+</div>
+<script>
+	var mediatype = window.location.hash.replace("#", "");
+	if (mediatype == "all") {
+		$(".pageTitle").html("All Media")
+	}
+	if (mediatype == "videos") {
+		$(".pageTitle").html("My Videos")
+	}
+	if (mediatype == "photos") {$(".pageTitle").html("My Photos")}
+		socialActive = false;
+	socialNos = [];
+</script>
+
+<script src="js/jquery.mobile-events.min.js"></script>
+<script src="js/allmedia.min.js"></script>

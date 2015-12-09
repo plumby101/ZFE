@@ -1,0 +1,10 @@
+{
+	"user_id": 288,
+	"auth_token": "98eh98fhusdihf80sdh0fh",
+	"media_id": 142513123,
+	"filter_id": 3,
+	"filter_options": {
+		"option1": "value1",
+		"option2": "value2"
+	}
+}
